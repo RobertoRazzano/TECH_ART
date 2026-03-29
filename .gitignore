@@ -79,3 +79,8 @@ DerivedDataCache/*
 # ==========================================
 **/Asset_TechArt
 Asset_TechArt
+
+# ==========================================
+# Ignora la cartella Fab (asset scaricati)
+# ==========================================
+**/Content/Fab/
